@@ -4,8 +4,3 @@ function getRandomInt(max) {
 }
 console.log(getRandomInt(100));
 
-let greaterThan
-console.log(x > y)
-
-let lessThan
-console.log(x < y)
