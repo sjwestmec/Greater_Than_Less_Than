@@ -1,6 +1,14 @@
-//getRandomInt("num")
-function getRandomInt(max) {
+//Random Number Generator
+function numRandom(max) {
   return Math.floor(Math.random() * max);
 }
-console.log(getRandomInt(100));
+let randNum = numRandom(1000);
+
+//Greater Than Less Than
+function greaterThan() {
+    document.getElementById()
+}
+function lessThan() {
+    document.getElementById()
+}
 
