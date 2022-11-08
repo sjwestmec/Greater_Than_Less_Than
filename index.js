@@ -12,3 +12,7 @@ function lessThan() {
     document.getElementById()
 }
 
+//Streaks
+let currentStreak = 0;
+
+let bestStreak = 0;
