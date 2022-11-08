@@ -1,1 +1,0 @@
-Random Number Generator works, and the buttons and text look good. But I cant quite get the "greater than, less than" part down in JS.
